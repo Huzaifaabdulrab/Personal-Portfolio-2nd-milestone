@@ -2,7 +2,6 @@
 import { FaHtml5, FaCss3, FaJs, FaGithub } from "react-icons/fa";
 import { BiLogoTypescript } from "react-icons/bi";
 import { RiNextjsFill} from "react-icons/ri";
-import Link from "next/link";
 
 export default function ServicesSection() {
   const services = [

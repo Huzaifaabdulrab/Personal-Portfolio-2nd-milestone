@@ -27,7 +27,7 @@ export default function Screen() {
             variant={"outline"}
             className="download-cv-btn"
           >
-            <a href="/Cv.png" target="_blank">
+            <a href="..app/public/HuzaifaCv/HuzaifaCv.pdf" target="_blank">
               Download CV
             </a>
           </Button>
